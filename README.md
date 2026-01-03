@@ -1,16 +1,17 @@
-## Hi there 👋
+# this is bookyzhou
 
-<!--
-**bookyzhou/bookyzhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 大家好，我是周奕恒，科软在读研二，目前在深圳腾讯WXG实习，ISTJ半宅男，喜欢打游戏，欢迎交个朋友~
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 关于我
+
+*   **我是一名:** 后端工程师
+*   **技术栈:** Cpp, Python, Golang, Node.js
+*   **兴趣:** 英雄联盟，炉石传说，象棋，游泳
+
+---
+
+## 联系我
+
+*   **邮箱:** zhouyiheng@mail.ustc.edu.cn
